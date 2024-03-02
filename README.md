@@ -54,8 +54,8 @@ Now open your simulator in Autonomous mood & run yes!!🙂
 
 # Authors:
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Anu Priya
+
+Email:anupriyasinghchp1@gmail.com
 ```
 
